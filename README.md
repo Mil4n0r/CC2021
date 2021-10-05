@@ -6,13 +6,13 @@ Repositorio empleado para el desarrollo de la asignatura "Cloud Computing" del M
 
 ### Contexto y descripción del problema
 
-A día de hoy, se estima que alrededor del 17% de la producción total de alimentos del mundo va a parar a la basura. Esto se debe en gran parte al hecho de que los grandes establecimientos están obligados a tirar la comida una vez que esta caduca. Este 17% supone millones de toneladas de alimento de los cuales en torno a un 40% proviene de negocios y comercios. 
+A día de hoy, se estima que alrededor del 17% de la producción total de alimentos del mundo va a parar a la basura. Esto se debe en gran parte al hecho de que los establecimientos están obligados a tirar la comida una vez que esta caduca. Este 17% supone millones de toneladas de alimento de los cuales en torno a un 40% proviene de negocios y comercios (siendo el resto procedente de los domicilios). 
 
 Estas cifras suponen un grave impacto a nivel económico, social y medioambiental, por lo que existe la necesidad de instaurar alguna solución adaptada al mundo actual.
 
 ### Solución propuesta
 
-Se propone la creación de una aplicación llamada FoodSaver capaz de ofrecer productos de comercios o negocios a precio reducido cuando estos se encuentran próximos a su fecha de caducidad, ofreciendo al negocio una posibilidad de no desperdiciar el excedente de alimentos y al usuario la posibilidad de obtener productos más económicos.
+Se propone la creación de una aplicación llamada **FoodSaver** capaz de ofrecer productos de comercios o negocios a precio reducido cuando estos se encuentran próximos a su fecha de caducidad. De esta manera, se ofrece al negocio una posibilidad de no desperdiciar el excedente de alimentos y al usuario la posibilidad de obtener productos más económicos.
 
 La aplicación presentará al usuario final (que serán denominados como héroes, haciendo alusión a su labor de "salvar" la comida) un catálogo con todos los productos de caducidad próxima que oferta el establecimiento, señalando la fecha límite de estos así como, de manera opcional, sugerencias de recetas posibles con estos.
 
@@ -24,7 +24,7 @@ Gracias al seguimiento de los alimentos que proporciona la aplicación se podrá
 
 * Qué productos se desechan más a menudo. Gracias a ello se podría optar por reajustar el precio de estos o disminuir la compra del producto por parte del negocio. 
 
-- Qué productos prefiere cada usuario. En base a las compras y búsquedas de cada usuario el sistema podrá ofertar productos más afines a sus preferencias. Para llevarlo más allá también será posible la predicción de los productos más o menos solicitados en función de factores como la época del año.
+* Qué productos prefiere cada usuario. En base a las compras y búsquedas de cada usuario el sistema podrá ofertar productos más afines a sus preferencias. Para llevarlo más allá también será posible la predicción de las tendencias de compra de productos en función de factores como la época del año.
 
 ### Documentación adicional
 
