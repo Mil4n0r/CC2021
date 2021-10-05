@@ -31,9 +31,8 @@ Gracias al seguimiento de los alimentos que proporciona la aplicación se podrá
 En esta sección se indica la siguiente información
 
 1. [Configuración de Git](https://github.com/Mil4n0r/CC2021/blob/main/docs/git_config.md)
-2. [Configuración de GitHub](https://github.com/Mil4n0r/CC2021/blob/main/docs/github_config.md)
-3. [Configuración de la línea de órdenes](https://github.com/Mil4n0r/CC2021/blob/main/docs/command_config.md)
-4. [Configuración de la licencia](https://github.com/Mil4n0r/CC2021/blob/main/LICENSE)
+2. [Configuración de la línea de órdenes](https://github.com/Mil4n0r/CC2021/blob/main/docs/command_config.md)
+3. [Configuración de la licencia](https://github.com/Mil4n0r/CC2021/blob/main/LICENSE)
 
 ### Bibliografía
 
