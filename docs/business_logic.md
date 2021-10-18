@@ -2,6 +2,8 @@
 
 Gracias al seguimiento de los alimentos que proporciona la aplicación se podrá obtener la siguiente información que resulta relevante para el negocio:
 
-* Qué productos se desechan más a menudo. Gracias a ello se podría optar por reajustar el precio de estos o disminuir la compra del producto por parte del negocio. 
+* Detección de qué productos se desechan más a menudo mediante un estudio del "stock" de los negocios. Gracias a ello se podría optar por reajustar el precio de los productos o disminuir su suministro, tratando de minimizar así, dentro de lo posible, el desperdicio de alimentos por parte de los negocios.
 
-* Qué productos prefiere cada usuario. En base a las compras y búsquedas de cada usuario el sistema podrá ofertar productos más afines a sus preferencias. Para llevarlo más allá también será posible la predicción de las tendencias de compra de productos en función de factores como la época del año.
+* Realización de un estudio que permita detectar cual es el porcentaje de descuento para cada tipo de productos que arroja unos mayores beneficios a los negocios.
+
+* En base a los datos obtenidos de los productos desechados, disminuir el suministro de estos decrementando en base a la semana que mayores desperdicios haya tenido del producto en cuestión.
