@@ -1,4 +1,4 @@
-class Product {
+export class Product {
     private _id: number;
     private _name: string;
     private _kind: string;
