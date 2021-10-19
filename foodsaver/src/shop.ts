@@ -1,4 +1,6 @@
-class Shop {
+import {Product} from './product.ts';
+
+export class Shop {
     private _id: number;
     private _name: string;
     private _products: [[product: Product, stock: number]];
