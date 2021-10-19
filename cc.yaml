@@ -1,4 +1,4 @@
 entidad:
   - foodsaver/src/product.ts
   - foodsaver/src/shop.ts
-  - foodsaver/src/cart.ts
+  - foodsaver/src/sale.ts
