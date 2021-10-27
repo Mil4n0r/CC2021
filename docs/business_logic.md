@@ -6,4 +6,4 @@ Gracias al seguimiento de los alimentos que proporciona la aplicación se podrá
 
 * Realización de un estudio que permita detectar cual es el porcentaje de descuento para cada tipo de productos que arroja unos mayores beneficios a los negocios.
 
-* En base a los datos obtenidos de los productos desechados, disminuir el suministro de estos decrementando en base a la semana que mayores desperdicios haya tenido del producto en cuestión.
+* En base a los datos obtenidos de los productos desechados, disminuir el suministro de estos decrementando en función de la semana que mayores desperdicios haya tenido del producto en cuestión.
