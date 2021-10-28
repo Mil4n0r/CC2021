@@ -1,4 +1,5 @@
 entidad:
-  - foodsaver/src/product.ts
-  - foodsaver/src/shop.ts
+  - foodsaver/src/genericproduct.ts
   - foodsaver/src/sale.ts
+  - foodsaver/src/shop.ts
+  - foodsaver/src/specificproduct.ts
