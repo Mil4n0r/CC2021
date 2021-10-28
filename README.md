@@ -12,23 +12,18 @@ Repositorio empleado para el desarrollo de la asignatura "Cloud Computing" del M
 
 ### Hitos
 
-* [[H01] Listado de productos](https://github.com/Mil4n0r/CC2021/milestone/1)
-* [[H02] Carrito de la compra](https://github.com/Mil4n0r/CC2021/milestone/2)
-* [[M03] Sistema de obtención de estadísticas](https://github.com/Mil4n0r/CC2021/milestone/3)
-* [[M04] Administración de stock](https://github.com/Mil4n0r/CC2021/milestone/4)
+* [[H01] Sistema básico de venta y consulta de productos](https://github.com/Mil4n0r/CC2021/milestone/1)
+* [[H02] Sistema que obtiene estadísticas de desecho y de venta partiendo del sistema básico](https://github.com/Mil4n0r/CC2021/milestone/2)
+* [[M03] Sistema que modifica el precio y el abastecimiento de los productos en base a las estadísticas de desecho y de ventas](https://github.com/Mil4n0r/CC2021/milestone/3)
+* [[M04] Sistema de maximización de beneficios](https://github.com/Mil4n0r/CC2021/milestone/4)
 
 ### Historias de Usuario
 
-* [[HU01] Histórico semanal de productos desechados](https://github.com/Mil4n0r/CC2021/issues/1)
-* [[HU02] Obtención de productos próximos a su fecha de caducidad](https://github.com/Mil4n0r/CC2021/issues/2)
-* [[HU03] Gestión del carrito de la compra](https://github.com/Mil4n0r/CC2021/issues/3)
-* [[HU04] Obtención de información de un producto](https://github.com/Mil4n0r/CC2021/issues/4)
-* [[HU05] Gestión de productos](https://github.com/Mil4n0r/CC2021/issues/5)
-* [[HU06] Gestión de pedidos a proveedores](https://github.com/Mil4n0r/CC2021/issues/6)
-* [[HU07] Filtrado del listado de productos](https://github.com/Mil4n0r/CC2021/issues/7)
-* [[HU08] Obtención de beneficios](https://github.com/Mil4n0r/CC2021/issues/8)
-* [[HU09] Aplicación de descuentos](https://github.com/Mil4n0r/CC2021/issues/9)
-* [[HU10] Obtención de ventas](https://github.com/Mil4n0r/CC2021/issues/10)
+* [[HU01] Listado de productos](https://github.com/Mil4n0r/CC2021/issues/1)
+* [[HU02] Compra de productos](https://github.com/Mil4n0r/CC2021/issues/15)
+* [[HU03] Estadísticas de productos](https://github.com/Mil4n0r/CC2021/issues/6)
+* [[HU04] Modificación de suministro y precios](https://github.com/Mil4n0r/CC2021/issues/4)
+* [[HU05] Obtención de beneficios](https://github.com/Mil4n0r/CC2021/issues/8)
 
 ### Documentación adicional
 
