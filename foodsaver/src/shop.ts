@@ -1,9 +1,9 @@
-import {Product} from './product.ts';
+import {SpecificProduct} from './specificproduct.ts';
 
 export class Shop {
     private _id: number;
     private _name: string;
-    private _products: [[product: Product, stock: number]];
+    private _products: [SpecificProduct];
 
     constructor(shop?: Shop) {
         if(shop !== undefined) {
@@ -14,7 +14,7 @@ export class Shop {
         else {
             this._id = 0;
             this._name = "Default name";
-            this._products = [[new Product(), 0]];
+            this._products = [new SpecificProduct()];
         }
     }
 
@@ -30,32 +30,5 @@ export class Shop {
 
     public get products() {
         return this._products;
-    }
-
-    // SETTERS
-
-    public set id(id: number) {
-        this._id = id;
-    }
-
-    public set name(name: string) {
-        this._name = name;
-    }
-
-    public add(product: Product, stock: number) {
-        this.products.push([product,stock]);
-    }
-
-    public remove(product: Product, quantity: number) {
-        this.products.forEach(([p,stock], index) => {
-            if(p.id==product.id) {
-                if(stock>1) {
-                    stock = stock - quantity;
-                }
-                else {
-                    this.products.splice(index,1);
-                }
-            }
-        });
     }
 }
